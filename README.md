@@ -1,6 +1,6 @@
 # Sveltekit-Standard
 
-I do a lot with socket.io and tailwind.css, so I decided to create a template with these pacakges all configured.
+I do a lot with socket.io and tailwind.css, so I decided to create a template with these packages all configured.
 
 # Svektekit create options
  - typescript
