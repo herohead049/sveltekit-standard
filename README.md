@@ -6,12 +6,16 @@ I do a lot with socket.io and tailwind.css, so I decided to create a template wi
  - typescript
   
 
+# Environment Variables
+
+- Create a file in root of the project called .env
+- Add the PUBLIC_WS_ADDRESS=ws://localhost:3000
 
 ## Packages Included beyond standard sveltekit create
 
 - socket.io
 - socket.io-client
-- flow-bite-svelte https://flowbite-svelte.com/
+- flowbite-svelte https://flowbite-svelte.com/
   ```sh
     pnpx svelte-add@latest tailwindcss
     pnpm i 
