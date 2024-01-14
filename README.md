@@ -2,14 +2,28 @@
 
 I do a lot with socket.io and tailwind.css, so I decided to create a template with these packages all configured.
 
+
+# Installation
+
+```sh
+git clone git@github.com:herohead049/sveltekit-standard.git my-app
+cd my-app
+pnpm i
+
+```
+## Backend API env value
+
+Update your backend API value in `.env`:
+
+```
+PUBLIC_WS_ADDRESS=ws://localhost:3000
+
+```
+
+
 # Svektekit create options
  - typescript
   
-
-# Environment Variables
-
-- Create a file in root of the project called .env
-- Add the PUBLIC_WS_ADDRESS=ws://localhost:3000
 
 ## Packages Included beyond standard sveltekit create
 
